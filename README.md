@@ -1,7 +1,7 @@
 # IWT: Interactive Well Transformer
 
 ## Introduction
-IWT is a tool for ImageJ or Fiji for transformation of full well images from multi-well plates. It is intended for use with time seriess, where a certain object is monitored over time, such as a growth of a spheroid.
+IWT is a tool for ImageJ or Fiji for transformation of full well images from multi-well plates. It is intended for use with time series, where a certain object is monitored over time, such as a growth of a spheroid.
 
 This tool is designed for:
 
